@@ -5,7 +5,6 @@
 //
 //@Controller
 //public class guestWelcome {
-//
 //    @RequestMapping("/")
 //    public String index(){
 //        return "index";
